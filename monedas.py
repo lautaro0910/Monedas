@@ -10,7 +10,7 @@ if tipo not in ['t', 'e', 'm']:
     print("Tipo de distancia no válido. Terminando el programa.")
     exit()
 
-x1 = float(input("Ingrese el primer punto de x: "))
+x1 = float(input("Dame el primer punto de x: "))
 y1 = float(input("Dame el primer punto de y: "))
 x2 = float(input("Dame el segundo punto de x: "))
 y2 = float(input("Dame el segundo punto de y: "))
